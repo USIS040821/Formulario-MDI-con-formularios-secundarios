@@ -59,5 +59,15 @@ namespace Formulario_MDI_y_secundarios.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Captura_de_pantalla__311_ {
+            get {
+                object obj = ResourceManager.GetObject("Captura de pantalla (311)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

@@ -5,6 +5,15 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Formulario_MDI_y_secundarios</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
+    <StartupObject>Formulario_MDI_y_secundarios.Program</StartupObject>
+    <ApplicationIcon />
+    <Copyright>Copyright</Copyright>
+    <Description>Descripcion</Description>
+    <PackageProjectUrl />
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <WarningLevel>0</WarningLevel>
   </PropertyGroup>
 
   <ItemGroup>
