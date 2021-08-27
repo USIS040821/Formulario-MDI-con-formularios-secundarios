@@ -1,0 +1,22 @@
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\bin\Debug\netcoreapp3.1\Formulario MDI y secundarios.exe
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\bin\Debug\netcoreapp3.1\Formulario MDI y secundarios.deps.json
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\bin\Debug\netcoreapp3.1\Formulario MDI y secundarios.runtimeconfig.json
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\bin\Debug\netcoreapp3.1\Formulario MDI y secundarios.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\bin\Debug\netcoreapp3.1\Formulario MDI y secundarios.dll
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\bin\Debug\netcoreapp3.1\Formulario MDI y secundarios.pdb
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\obj\Debug\netcoreapp3.1\Formulario MDI y secundarios.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\obj\Debug\netcoreapp3.1\Formulario_MDI_y_secundarios.Acerca_de.resources
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\obj\Debug\netcoreapp3.1\Formulario_MDI_y_secundarios.Ayuda.resources
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\obj\Debug\netcoreapp3.1\Formulario_MDI_y_secundarios.Form1.resources
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\obj\Debug\netcoreapp3.1\Formulario_MDI_y_secundarios.Formularios_de_venta.resources
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\obj\Debug\netcoreapp3.1\Formulario_MDI_y_secundarios.Integrantes.resources
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\obj\Debug\netcoreapp3.1\Formulario MDI y secundarios.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\obj\Debug\netcoreapp3.1\Formulario MDI y secundarios.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\obj\Debug\netcoreapp3.1\Formulario MDI y secundarios.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\obj\Debug\netcoreapp3.1\Formulario MDI y secundarios.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\obj\Debug\netcoreapp3.1\Formulario MDI y secundarios.dll
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\obj\Debug\netcoreapp3.1\Formulario MDI y secundarios.pdb
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\obj\Debug\netcoreapp3.1\Formulario MDI y secundarios.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\obj\Debug\netcoreapp3.1\Formulario_MDI_y_secundarios.Properties.Resources.resources
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\obj\Debug\netcoreapp3.1\Formulario_MDI_y_secundarios.Cuadro_de_dialogo.resources
+C:\Users\usuario\source\repos\Formulario MDI y secundarios\Formulario MDI y secundarios\obj\Debug\netcoreapp3.1\Formulario_MDI_y_secundarios.Cuadros_de_dialogos.resources
