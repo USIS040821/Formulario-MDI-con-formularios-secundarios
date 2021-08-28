@@ -17,6 +17,12 @@ namespace Formulario_MDI_y_secundarios
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
+           
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
             if (textBox1.Text == "abc123")
             {
                 label2.Text = "Clave correcta";
@@ -25,18 +31,13 @@ namespace Formulario_MDI_y_secundarios
             {
                 label2.Text = "Clave incorrecta";
             }
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
+            label2.Visible = true;
 
         }
 
         private void label2_Click(object sender, EventArgs e)
         {
-            
-        
-    }
+           
+        }
     }
 }

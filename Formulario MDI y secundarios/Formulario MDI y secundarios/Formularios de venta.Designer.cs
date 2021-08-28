@@ -70,6 +70,7 @@ namespace Formulario_MDI_y_secundarios
             this.label2.Size = new System.Drawing.Size(38, 15);
             this.label2.TabIndex = 3;
             this.label2.Text = "label2";
+            this.label2.Visible = false;
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // Formularios_de_venta

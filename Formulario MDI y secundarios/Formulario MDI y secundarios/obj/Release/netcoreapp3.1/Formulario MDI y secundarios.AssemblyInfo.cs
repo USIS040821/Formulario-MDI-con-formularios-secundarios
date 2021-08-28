@@ -13,13 +13,14 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Formulario MDI y secundarios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
-[assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright @ 2021, todos los derechos reservados")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Descripcion")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Formulario MDI y secundarios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Formulario MDI y secundarios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Resources.NeutralResourcesLanguageAttribute("es-SV")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 
