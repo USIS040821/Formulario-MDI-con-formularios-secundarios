@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Formulario_MDI_y_secundarios
+namespace Formulario_MDI_y_secundarios1
 {
     public partial class Integrantes : Form
     {
