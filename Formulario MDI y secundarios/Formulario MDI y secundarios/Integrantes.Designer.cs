@@ -101,6 +101,7 @@ namespace Formulario_MDI_y_secundarios
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(635, 499);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
