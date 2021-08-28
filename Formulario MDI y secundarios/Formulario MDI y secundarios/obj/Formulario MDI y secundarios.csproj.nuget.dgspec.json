@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juana\\Source\\Repos\\Formulario-MDI-con-formularios-secundarios\\Formulario MDI y secundarios\\Formulario MDI y secundarios\\Formulario MDI y secundarios.csproj": {}
+    "C:\\Users\\10kar\\OneDrive\\Escritorio\\Program ciclo II\\proyecto5\\Nueva carpeta\\Formulario MDI y secundarios\\Formulario MDI y secundarios\\Formulario MDI y secundarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juana\\Source\\Repos\\Formulario-MDI-con-formularios-secundarios\\Formulario MDI y secundarios\\Formulario MDI y secundarios\\Formulario MDI y secundarios.csproj": {
+    "C:\\Users\\10kar\\OneDrive\\Escritorio\\Program ciclo II\\proyecto5\\Nueva carpeta\\Formulario MDI y secundarios\\Formulario MDI y secundarios\\Formulario MDI y secundarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juana\\Source\\Repos\\Formulario-MDI-con-formularios-secundarios\\Formulario MDI y secundarios\\Formulario MDI y secundarios\\Formulario MDI y secundarios.csproj",
+        "projectUniqueName": "C:\\Users\\10kar\\OneDrive\\Escritorio\\Program ciclo II\\proyecto5\\Nueva carpeta\\Formulario MDI y secundarios\\Formulario MDI y secundarios\\Formulario MDI y secundarios.csproj",
         "projectName": "Formulario MDI y secundarios",
-        "projectPath": "C:\\Users\\juana\\Source\\Repos\\Formulario-MDI-con-formularios-secundarios\\Formulario MDI y secundarios\\Formulario MDI y secundarios\\Formulario MDI y secundarios.csproj",
-        "packagesPath": "C:\\Users\\juana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juana\\Source\\Repos\\Formulario-MDI-con-formularios-secundarios\\Formulario MDI y secundarios\\Formulario MDI y secundarios\\obj\\",
+        "projectPath": "C:\\Users\\10kar\\OneDrive\\Escritorio\\Program ciclo II\\proyecto5\\Nueva carpeta\\Formulario MDI y secundarios\\Formulario MDI y secundarios\\Formulario MDI y secundarios.csproj",
+        "packagesPath": "C:\\Users\\10kar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\10kar\\OneDrive\\Escritorio\\Program ciclo II\\proyecto5\\Nueva carpeta\\Formulario MDI y secundarios\\Formulario MDI y secundarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\juana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\10kar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
