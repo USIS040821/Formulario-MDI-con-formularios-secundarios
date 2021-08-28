@@ -54,7 +54,7 @@ namespace Formulario_MDI_y_secundarios
 
         private void Menu_Load(object sender, EventArgs e)
         {
-
+//final 
         }
     }
 }
